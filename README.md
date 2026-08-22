@@ -14,7 +14,7 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Sania-Patiyal">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -111,15 +111,15 @@ Focus:
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sania-Patiyal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sania-Patiyal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="65%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=Sania-Patiyal&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -129,7 +129,7 @@ Focus:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&row=1&column=7"/>
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Sania-Patiyal&theme=algolia&no-frame=true&margin-w=10&row=1&column=7"/>
 
 </p>
 
@@ -139,7 +139,7 @@ Focus:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sania-Patiyal&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 </p>
 
@@ -169,7 +169,11 @@ Focus:
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Sania-Patiyal&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/Sania-Patiyal?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Sania-Patiyal?style=for-the-badge"/>
 
 </p>
 
@@ -179,7 +183,7 @@ Focus:
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Sania-Patiyal">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
